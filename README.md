@@ -1,8 +1,15 @@
-# SortViz
-A sorting visualizer made using pygame
+## SortViz
 
-press g to generate
+A sorting vizualizer for various sorting algorithms made using pygame.
 
-press b to bubble sort
+Sorting algorithms implemented
 
-press m to merge sort
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+
+Press the numbers from [1-5] to select a sorting algorithm
+
+Press Enter to start sorting.
