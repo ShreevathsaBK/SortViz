@@ -13,3 +13,9 @@ Sorting algorithms implemented
 Press the numbers from [1-5] to select a sorting algorithm
 
 Press Enter to start sorting.
+
+Sample images 
+
+![](img2.png)
+
+![](img1.png)
